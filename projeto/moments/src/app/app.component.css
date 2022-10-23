@@ -3,4 +3,5 @@
     100vh - 273px
   ); /*total do vh menos a largura do header+footer*/
   margin-bottom: 2em;
+  background-image: linear-gradient(to top, #ffffff, #dec12942);
 }

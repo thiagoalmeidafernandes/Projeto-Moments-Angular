@@ -4,6 +4,7 @@ nav {
   padding: 1em;
   border-bottom: 1px solid #777;
   background-image: linear-gradient(to right, #efefef, #dec12942);
+  box-shadow: 0px 0px 8px 2px #00000037;
 }
 
 .brand,
